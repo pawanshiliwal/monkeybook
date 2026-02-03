@@ -113,9 +113,7 @@
       <area left="1085"  top="182" width="38" height="38"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
   
       <!-- type title text image -->
-      <img src="assets_c/image/page_4_5/para.png" left="184" top="444" height="65" width="620" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
-
-
+      <img src="assets_c/image/page_4_5/tyre-title.png" left="1100" top="202" height="279" width="475" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
 
     </spreadpage>
     
