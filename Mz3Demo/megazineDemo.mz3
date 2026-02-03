@@ -47,7 +47,8 @@
         </overlay>
       </area >
     </page>
-    
+
+    <!-- page 2 and 3 -->
     <spreadpage pgNbr="2" imgNbr="2">
       <img src="assets_c/image/2.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
          <!-- most small yellow box 1 -->
@@ -80,6 +81,8 @@
       elPrio="999" 
         overlay="color(0.8,1,0xF6E919)"/>
 
+      <!-- text image   -->
+      <img src="assets_c/image/page_2_3/text1.png" left="1195" top="299" height="80" width="480" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
     </spreadpage>
     
     <spreadpage pgNbr="4" imgNbr="3">
