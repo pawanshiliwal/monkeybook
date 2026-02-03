@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE book SYSTEM 'https://megazine3.de/megazine2.dtd'><book  bookActualVersion="2.4.4.004" showNavbar="yes" isDefaultValue="true" showBurgerMenu="yes" licensekey="53a64d1b4f38e04ed7a8ad17bc5ba425:MZ3-BASE:VservU GmbH"   maxloaded="0" showPoweredBy="false" showContactData="false" xmlName="mz3ToolBookData" sliderepeat="true" publishTechnology="air" bookNavbarHeight="2" dragrange="44" defaultLanguage="de" plugins="gestures,console,navigationbar,keyboardnavigation,links,javascript,pdflinks,anchors,zoom,titles,index,swfaddress,overlays,slideshow,tuio" thumbauto="false" pageWidth2="1920" supportSinglePageButton="false" errorlevel="WARNING" guipath="asul_c/gui/" zoomminscale="0.1"  foldfx="0.40" zoommaxscale="4.0" zoomsnap="0.1,0.25,0.5,0.75,1.0,1.5,2.0,4" modificationDate="2020-01-0316:58" zoomsteps="2" creationDate="2019-12-0812:14" thumbloadtext="pleasewait" thumbloadtextsize="12" guiBigPath="asul_c/guiBig/" cornerhint="false" mz3ButtonsBigPath="asul_c/mz3ButtonsBig/" thumbCount="0" startpage="1" mz3TitleName="megazineDemo" pagewidth="960" htmlJsMissingHint="MegaZine3Title(missingJavascript)" pageheight="1200" htmlTitle="MegaZine3Title" searchindex="" htmlKeywords="eBook,Mz3Title" htmlIcon="https://megazine3.de/downloads/logos/favicon.ico" customLogoRight="10" htmlBarStyle="black" bgcolor="0x00c3b586" pageType="double" bookBgColor="#ff000000" publOptionLicenseKey="3650d3ba7162d1f85281ce9f8f5fa7e7:Hans J Nuecke" htmlContentType="book" lang="de,en" pageCount="34" customLogoBottom="10" pagethickness="3.0" htmlAppCapable="true">
+  <chapter ch-nbr="1">
+    
+    <page  bgcolor="0xFFFFFF" pgNbr="1" imgNbr="1"  stiff="true">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="1" cache="false" elIndex="a00001" elType="pimg">
+        <left lang="de">60</left>
+        <right lang="de">60</right>
+        <top lang="de">60</top>
+        <bottom lang="de">60</bottom>
+        <width lang="de">840</width>
+        <height lang="de">1080</height>
+        <src lang="de">assets_c/image/first.jpg</src>
+        <overlay>
+          alpha(0.5)
+       </overlay>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="1" cache="false" elIndex="a00042" elType="pimg">
+        <left lang="en">60</left>  
+        <right lang="en">60</right>
+        <top lang="en">60</top>
+          <bottom lang="en">60</bottom>
+        <width lang="en">840</width>
+        <height lang="en">1080</height>
+        <src lang="en">assets_c/image/first.jpg</src>
+        <overlay>
+             alpha(0.5)
+        </overlay>
+      </img> 
+      <img src="assets_c/image/first-logo.png" left="365" top="480" height="230" width="230" keepar="true"/>
+      <img src="assets_c/image/firs-text.png" left="320" top="850" height="0.9" keepar="true"/>
+      <area bgcolor="0xF6E919" elType="area" elPrio="999" pgNbr="1">
+        <left>875</left>
+        <top>0</top>
+        <width>50</width>
+        <height>120</height>
+        <overlay>
+            color(0.8,1,0xF6E919)
+        </overlay>
+      </area >
+      <area bgcolor="0xF6E919" elType="area" elPrio="999" pgNbr="1">
+        <left>130</left>
+        <top>1110</top>
+        <width>50</width>
+        <height>50</height>
+        <overlay>
+            color(0.8,1,0xF6E919)
+        </overlay>
+      </area >
+    </page>
+    
+    <spreadpage pgNbr="2" imgNbr="2">
+      <img src="assets_c/image/2.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
+         <!-- most small yellow box 1 -->
+      <area left="1685" 
+      top="235" 
+      width="43" 
+      height="43" 
+      bgcolor="0xF6E919" 
+      elType="area" 
+      elPrio="999" 
+        overlay="color(0.8,1,0xF6E919)"/>
+
+        <!-- small yellow box 2 -->
+      <area left="1710" 
+      top="218" 
+      width="28" 
+      height="28" 
+      bgcolor="0xF6E919" 
+      elType="area" 
+      elPrio="999" 
+        overlay="color(0.8,1,0xF6E919)"/>
+
+        <!-- big yellow box 3 -->
+      <area left="1131" 
+      top="440" 
+      width="133" 
+      height="43" 
+      bgcolor="0xF6E919" 
+      elType="area" 
+      elPrio="999" 
+        overlay="color(0.8,1,0xF6E919)"/>
+
+    </spreadpage>
+    
+    <spreadpage pgNbr="4" imgNbr="3">
+      <img src="assets_c/image/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="4" cache="false" elIndex="a00030" elType="pimg"/>        
+    </spreadpage>
+    
+    <spreadpage pgNbr="6" imgNbr="4">
+      <img src="assets_c/image/6.png" left="0" top="0" height="1200" width="1920"  />
+        
+      <!-- first video  -->
+      <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4" left="90" top="432" height="445" width="785" autoplay="false" />
+      <img src="assets_c/image/pause.png" left="90" top="890" height="55" width="55"/>
+      <area left="90"   top="890" height="50" width="50" url="video::vid1:play"/>
+
+       <!-- second video  -->
+      <vid id="vid2" src="assets_c/video/ForBiggerMeltdowns.mp4" left="1220" top="245" height="366" width="647" autoplay="false"/>
+      <img src="assets_c/image/pause.png" left="1220" top="625" height="55" width="55"/>
+      <area left="1220" top="625" height="50" width="50" url="video::vid2:play"/>
+      
+
+      <!-- third video  -->
+      <vid id="vid3" src="assets_c/video/ForBiggerMeltdowns.mp4" left="1046" top="718" height="366" width="647" autoplay="false" />
+      <img src="assets_c/image/pause.png" left="1046" top="1100" height="55" width="55"/>
+      <area left="1046" top="1100" height="50" width="50" url="video::vid3:play"/>
+    </spreadpage>
+    
+    <spreadpage pgNbr="8" bgcolor="0x00000000" imgNbr="5">
+      <img src="assets_c/image/8.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+
+       <!-- first video  -->
+      <vid  src="assets_c/video/video.mp4" left="85" top="240" height="580" width="322" autoplay="true" />
+
+       <!-- second video  -->
+      <vid  src="assets_c/video/video.mp4" left="485" top="265" height="780" width="425" autoplay="true"/>
+      
+      <!-- third video  -->
+      <vid  src="assets_c/video/video.mp4" left="1031" top="140" height="760" width="428" autoplay="true" />
+
+      <!-- fourth video  -->
+      <vid  src="assets_c/video/video.mp4" left="1520" top="518" height="578" width="332" autoplay="true" />
+    </spreadpage>
+    
+    <spreadpage pgNbr="10" bgcolor="0x00000000" imgNbr="6">
+      <img src="assets_c/image/10.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+
+           <!-- first video  -->
+      <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="78" top="218" height="338`" width="595" autoplay="true" />
+
+       <!-- second video  -->
+      <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="262" top="780" height="338" width="595" autoplay="true"/>
+      
+
+      <!-- fourth video  -->
+      <vid  src="assets_c/video/video.mp4" left="1378" top="300" height="800" width="440" autoplay="true" />
+    </spreadpage>
+    
+    <spreadpage pgNbr="12" imgNbr="7">
+          <img src="assets_c/image/12.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    
+    <spreadpage pgNbr="14" foldfx="0.40" >
+         <img src="assets_c/image/14.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    
+    <spreadpage pgNbr="16" foldfx="0.40" >
+         <img src="assets_c/image/16.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="18" foldfx="0.40" >
+         <img src="assets_c/image/18.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="20" foldfx="0.40" >
+         <img src="assets_c/image/20.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="22" foldfx="0.40" >
+         <img src="assets_c/image/22.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+
+         <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="75" top="260" height="230" width="400" autoplay="true" />
+
+         <!-- second video  -->
+         <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="517" top="325" height="230" width="400" autoplay="true"/>
+
+         <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="75" top="828" height="230" width="400" autoplay="true"/>
+   
+         <!-- fourth video  -->
+         <vid  src="assets_c/video/video.mp4" left="600" top="300" height="500" width="270" autoplay="true" />
+    </spreadpage>
+    <spreadpage pgNbr="24" foldfx="0.40" >
+         <img src="assets_c/image/24.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="26" foldfx="0.40" >
+         <img src="assets_c/image/26.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="28" foldfx="0.40" >
+         <img src="assets_c/image/28.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="30" foldfx="0.40" >
+         <img src="assets_c/image/30.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="32" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+
+    <page pgNbr="33" imgNbr="10">
+         <img src="assets_c/image/last.png" left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </page>
+  </chapter>
+</book>

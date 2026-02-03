@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+
+    <style>
+        <![CDATA[
+	/* Button graphics */
+	togglebutton.singlepages > button.normal {background: image($mz3Buttons$btn_sp_on.png); }
+	togglebutton.singlepages > button.toggled {background: image($mz3Buttons$btn_sp_off.png); }
+
+	/* Default style for buttons. This is used throughout the engine. */
+	button.local, togglebutton.local, togglebutton.local button {
+		width: 23;
+		height:23;
+		filter: dropshadow(2,45,0x000000,1,3,3,0.5,2);
+	}
+
+	togglebutton.local > button { filter: none; }
+
+	button.local box, togglebutton.local button box {
+		/* Using outer size - 2 to allow a 1px margin, which is used on mouseover (see below) */
+		width: 25;
+		height: 25;
+		x: 1;
+		y: 1;
+	}
+	button.local > box.over, togglebutton.local > button box.over { filter: glow(0xFFFFFF,1,3,3,1,2); }
+	button.local > box.down, togglebutton.local > button box.down {
+		filter: glow(0xFFFFFF,1,3,3,1,2);
+		/* Using margin on mouseover (moving image one pixel down and to the right) */
+		x: 2;
+		y: 2;
+	}
+	]]>
+    </style>
+
+    <!-- Button for the navigation bar. Must be a button. Toggles visibility of the 'singlepages' element. -->
+    <togglebutton id="btn_single_pages" name="btn_single_pages"
+                  title="localize(LNG_SINGLE_PAGE_CONTROL, toggle between single page and standard mode)"
+                  style="common singlepages"/>
+    
+</asul>

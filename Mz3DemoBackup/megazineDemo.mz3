@@ -1,0 +1,497 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE book SYSTEM 'https://megazine3.de/megazine2.dtd'><book bookActualVersion="2.4.4.004" showNavbar="yes" isDefaultValue="true" showBurgerMenu="yes" licensekey="53a64d1b4f38e04ed7a8ad17bc5ba425:MZ3-BASE:VservU GmbH" xmlName="mz3ToolBookData" sliderepeat="true" publishTechnology="air" bookNavbarHeight="2" dragrange="44" defaultLanguage="de" plugins="gestures,console,navigationbar,keyboardnavigation,links,javascript,pdflinks,anchors,zoom,titles,index,swfaddress,overlays,slideshow" thumbauto="false" pageWidth2="800" supportSinglePageButton="false" errorlevel="WARNING" guipath="asul_c/gui/" zoomminscale="0.1" mz3ButtonsPath="asul_c/mz3Buttons/" foldfx="0.40" zoommaxscale="4.0" zoomsnap="0.1,0.25,0.5,0.75,1.0,1.5,2.0,4" modificationDate="2020-01-0316:58" zoomsteps="2" creationDate="2019-12-0812:14" thumbloadtext="pleasewait" thumbloadtextsize="12" guiBigPath="asul_c/guiBig/" cornerhint="false" mz3ButtonsBigPath="asul_c/mz3ButtonsBig/" thumbCount="0" startpage="1" mz3TitleName="megazineDemo" pagewidth="400" htmlJsMissingHint="MegaZine3Title(missingJavascript)" pageheight="600" htmlTitle="MegaZine3Title" searchindex="" htmlKeywords="eBook,Mz3Title" htmlIcon="https://megazine3.de/downloads/logos/favicon.ico" customLogoRight="10" htmlBarStyle="black" bgcolor="0x00c3b586" pageType="double" bookBgColor="#ff000000" publOptionLicenseKey="3650d3ba7162d1f85281ce9f8f5fa7e7:Hans J Nuecke" htmlContentType="book" lang="de,en" pageCount="18" customLogoBottom="10" pagethickness="3.0" htmlAppCapable="true">
+  <chapter ch-nbr="1">
+    
+    <page pgNbr="1" imgNbr="1">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="1" cache="false" elIndex="a00001" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">400</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00001_de_page_00001_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="1" cache="false" elIndex="a00042" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">400</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00042_en_page_00001_en.png</src>
+      </img>
+    </page>
+    
+    <spreadpage pgNbr="2" imgNbr="2">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="2" cache="false" elIndex="a00031" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00031_de_page_00002_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00029_en_page_00002_en.png</src>
+      </img>
+    </spreadpage>
+    
+    <spreadpage pgNbr="4" imgNbr="3">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00016_de_page_00004_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="4" cache="false" elIndex="a00030" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00030_en_page_00004_en.png</src>
+      </img>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:00" elType="area" pgNbr="4" elIndex="a00019">
+        <url lang="de">anchor:4</url>
+        <target>_blank</target>
+        <left lang="de">508</left>
+        <top lang="de">180</top>
+        <width lang="de">200</width>
+        <height lang="de">31</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:00" elType="area" pgNbr="4" elIndex="a00010">
+        <url lang="de">anchor:5</url>
+        <target>_blank</target>
+        <left lang="de">508</left>
+        <top lang="de">211</top>
+        <width lang="de">200</width>
+        <height lang="de">31</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:01" elType="area" pgNbr="4" elIndex="a00036">
+        <url lang="de">anchor:6</url>
+        <target>_blank</target>
+        <left lang="de">508</left>
+        <top lang="de">242</top>
+        <width lang="de">200</width>
+        <height lang="de">28</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:01" elType="area" pgNbr="4" elIndex="a00037">
+        <url lang="de">anchor:8</url>
+        <target>_blank</target>
+        <left lang="de">490</left>
+        <top lang="de">270</top>
+        <width lang="de">218</width>
+        <height lang="de">28</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:01" elType="area" pgNbr="4" elIndex="a00038">
+        <url lang="de">anchor:10</url>
+        <target>_blank</target>
+        <left lang="de">490</left>
+        <top lang="de">298</top>
+        <width lang="de">218</width>
+        <height lang="de">28</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:02" elType="area" pgNbr="4" elIndex="a00039">
+        <url lang="de">anchor:12</url>
+        <target>_blank</target>
+        <left lang="de">490</left>
+        <top lang="de">326</top>
+        <width lang="de">218</width>
+        <height lang="de">28</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:02" elType="area" pgNbr="4" elIndex="a00040">
+        <url lang="de">anchor:14</url>
+        <target>_blank</target>
+        <left lang="de">490</left>
+        <top lang="de">354</top>
+        <width lang="de">218</width>
+        <height lang="de">28</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:03" elType="area" pgNbr="4" elIndex="a00045">
+        <url lang="en">anchor:4</url>
+        <target>_blank</target>
+        <left lang="en">497</left>
+        <top lang="en">189</top>
+        <width lang="en">200</width>
+        <height lang="en">26</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:03" elType="area" pgNbr="4" elIndex="a00018">
+        <url lang="en">anchor:5</url>
+        <target>_blank</target>
+        <left lang="en">500</left>
+        <top lang="en">218</top>
+        <width lang="en">200</width>
+        <height lang="en">26</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:04" elType="area" pgNbr="4" elIndex="a00049">
+        <url lang="en">anchor:10</url>
+        <target>_blank</target>
+        <left lang="en">503</left>
+        <top lang="en">304</top>
+        <width lang="en">200</width>
+        <height lang="en">26</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:04" elType="area" pgNbr="4" elIndex="a00044">
+        <url lang="en">anchor:8</url>
+        <target>_blank</target>
+        <left lang="en">490</left>
+        <top lang="en">272</top>
+        <width lang="en">218</width>
+        <height lang="en">28</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:04" elType="area" pgNbr="4" elIndex="a00043">
+        <url lang="en">anchor:6</url>
+        <target>_blank</target>
+        <left lang="en">500</left>
+        <top lang="en">244</top>
+        <width lang="en">200</width>
+        <height lang="en">26</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:04" elType="area" pgNbr="4" elIndex="a00046">
+        <url lang="en">anchor:12</url>
+        <target>_blank</target>
+        <left lang="en">503</left>
+        <top lang="en">330</top>
+        <width lang="en">200</width>
+        <height lang="en">28</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-anchor" elDate="2020-01-03 13:04" elType="area" pgNbr="4" elIndex="a00047">
+        <url lang="en">anchor:14</url>
+        <target>_blank</target>
+        <left lang="en">503</left>
+        <top lang="en">358</top>
+        <width lang="en">200</width>
+        <height lang="en">28</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+    </spreadpage>
+    
+    <spreadpage pgNbr="6" imgNbr="4">
+      <img elPrio="005" elDate="2020-01-03 10:25" aa="true" pgNbr="6" cache="false" elIndex="a00022" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00022_de_page_00006_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2020-01-03 10:33" aa="true" pgNbr="6" cache="false" elIndex="a00056" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00056_en_page_00006_en.png</src>
+      </img>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:02" elType="area" pgNbr="6" elIndex="a00041">
+        <url lang="de">https://megazine3.de/de/mz3-download/download-mz3demo/</url>
+        <target>_blank</target>
+        <left lang="de">39</left>
+        <top lang="de">105</top>
+        <width lang="de">352</width>
+        <height lang="de">60</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:02" elType="area" pgNbr="6" elIndex="a00034">
+        <url lang="de">https://megazine3.de/demoPackage/megazineDemo.mz3z</url>
+        <target>_blank</target>
+        <left lang="de">43</left>
+        <top lang="de">252</top>
+        <width lang="de">152</width>
+        <height lang="de">92</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:02" elType="area" pgNbr="6" elIndex="a00021">
+        <url lang="de">https://megazine3.de/demoPackage/_megazineDemo.zip</url>
+        <target>_blank</target>
+        <left lang="de">204</left>
+        <top lang="de">255</top>
+        <width lang="de">159</width>
+        <height lang="de">77</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:02" elType="area" pgNbr="6" elIndex="a00035">
+        <url lang="de">https://megazine3.de/demo</url>
+        <target>_blank</target>
+        <left lang="de">43</left>
+        <top lang="de">363</top>
+        <width lang="de">227</width>
+        <height lang="de">60</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:04" elType="area" pgNbr="6" elIndex="a00048">
+        <url lang="en">https://megazine3.de/mz3-download/download-mz3demo/</url>
+        <target>_blank</target>
+        <left lang="en">52</left>
+        <top lang="en">115</top>
+        <width lang="en">306</width>
+        <height lang="en">61</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:05" elType="area" pgNbr="6" elIndex="a00032">
+        <url lang="en">https://megazine3.de/demoPackage/megazineDemo.mz3z</url>
+        <target>_blank</target>
+        <left lang="en">49</left>
+        <top lang="en">275</top>
+        <width lang="en">150</width>
+        <height lang="en">94</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:05" elType="area" pgNbr="6" elIndex="a00058">
+        <url lang="en">https://megazine3.de/demoPackage/_megazineDemo.zip</url>
+        <target>_blank</target>
+        <left lang="en">202</left>
+        <top lang="en">273</top>
+        <width lang="en">164</width>
+        <height lang="en">99</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:05" elType="area" pgNbr="6" elIndex="a00020">
+        <url lang="en">https://megazine3.de/demo</url>
+        <target>_blank</target>
+        <left lang="en">53</left>
+        <top lang="en">386</top>
+        <width lang="en">215</width>
+        <height lang="en">64</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-mail" elDate="2020-01-03 13:07" elType="area" pgNbr="6" elIndex="a00055">
+        <url>mailto:info@megazine3.de</url>
+        <target>_blank</target>
+        <left>108</left>
+        <top>468</top>
+        <width>216</width>
+        <height>92</height>
+        <overlay>color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+    </spreadpage>
+    
+    <spreadpage pgNbr="8" bgcolor="0x00000000" imgNbr="5">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00002_de_page_00008_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="8" cache="false" elIndex="a00003" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00003_en_page_00008_en.png</src>
+      </img>
+    </spreadpage>
+    
+    <spreadpage pgNbr="10" bgcolor="0x00000000" imgNbr="6">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="10" cache="false" elIndex="a00013" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00013_de_page_00010_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="10" cache="false" elIndex="a00012" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00012_en_page_00010_en.png</src>
+      </img>
+      <area elPrio="020" a-class="mz3-url" elDate="2019-12-10 02:20" elType="area" pgNbr="10" elIndex="a00024">
+        <url>./assets_c/image_c/a00017_de_zoom2.jpg</url>
+        <target>_blank</target>
+        <left>454</left>
+        <top>375</top>
+        <width>33</width>
+        <height>31</height>
+        <overlay>color(0,0.3,0xe0e0e0);border(0.4,0.8,solid,0x7feeee,1)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2019-12-10 02:20" elType="area" pgNbr="10" elIndex="a00023">
+        <url>./assets_c/image_c/a00016_de_zoom1.jpg</url>
+        <target>_blank</target>
+        <left>459</left>
+        <top>338</top>
+        <width>33</width>
+        <height>31</height>
+        <overlay>color(0,0.3,0xe0e0e0);border(0.4,0.8,solid,0x7feeee,1)</overlay>
+      </area>
+      <snd elPrio="025" lang="de" audioPlayer="button-audio-player" pgNbr="10" elIndex="a00051" elDate="2019-12-23 10:26" elType="snd">
+        <src lang="de">assets_c/sound/a00051_de_birds3.mp3</src>
+        <left lang="de">46</left>
+        <top lang="de">410</top>
+        <width lang="de">48</width>
+        <height lang="de">48</height>
+        <autoplay lang="de">false</autoplay>
+      </snd>
+      <snd elPrio="025" lang="de" audioPlayer="mz3-audio-player" pgNbr="10" elIndex="a00028" elDate="2019-12-23 10:27" elType="snd">
+        <src lang="de">assets_c/sound/a00028_de_frogs.mp3</src>
+        <left lang="de">320</left>
+        <top lang="de">410</top>
+        <width lang="de">48</width>
+        <height lang="de">48</height>
+        <autoplay lang="de">false</autoplay>
+      </snd>
+      <snd elPrio="025" lang="en" audioPlayer="button-audio-player" pgNbr="10" elIndex="a00006" elDate="2019-12-28 12:18" elType="snd">
+        <src lang="en">assets_c/sound/a00006_en_birds3.mp3</src>
+        <left lang="en">116</left>
+        <top lang="en">343</top>
+        <width lang="en">32</width>
+        <height lang="en">32</height>
+        <autoplay lang="en">false</autoplay>
+      </snd>
+      <snd elPrio="025" lang="en" audioPlayer="button-audio-player" pgNbr="10" elIndex="a00053" elDate="2019-12-28 12:19" elType="snd">
+        <src lang="en">assets_c/sound/a00053_en_frogs.mp3</src>
+        <left lang="en">271</left>
+        <top lang="en">349</top>
+        <width lang="en">32</width>
+        <height lang="en">32</height>
+        <autoplay lang="en">false</autoplay>
+      </snd>
+    </spreadpage>
+    
+    <spreadpage pgNbr="12" imgNbr="7">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="12" cache="false" elIndex="a00004" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00004_de_page_00012_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="12" cache="false" elIndex="a00005" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00005_en_page_00012_en.png</src>
+      </img>
+      <snd elPrio="025" lang="en" audioPlayer="none" pgNbr="12" elIndex="a00052" elDate="2019-12-18 12:23" elType="snd">
+        <src lang="en">assets_c/sound/a00052_en_waves.mp3</src>
+        <left lang="en">340</left>
+        <top lang="en">7</top>
+        <width lang="en">32</width>
+        <height lang="en">32</height>
+        <autoplay lang="en">true</autoplay>
+      </snd>
+      <snd elPrio="025" lang="de" audioPlayer="none" pgNbr="12" elIndex="a00050" elDate="2019-12-18 12:23" elType="snd">
+        <src lang="de">assets_c/sound/a00050_de_Lake Shore 01.mp3</src>
+        <left lang="de">474</left>
+        <top lang="de">6</top>
+        <width lang="de">32</width>
+        <height lang="de">32</height>
+        <autoplay lang="de">true</autoplay>
+      </snd>
+    </spreadpage>
+    
+    <spreadpage pgNbr="14" foldfx="0.40" imgNbr="8">
+      <img elPrio="005" elDate="2020-01-03 16:58" aa="true" pgNbr="14" cache="false" elIndex="a00015" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00015_en_page_00014_en.png</src>
+      </img>
+      <img elPrio="005" elDate="2020-01-03 16:59" aa="true" pgNbr="14" cache="false" elIndex="a00014" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00014_de_page_00014_de.png</src>
+      </img>
+      <vid elPrio="010" elType="vid" elDate="2019-12-10 15:30" jsAutoplay="true" useSpVid="true" pgNbr="14" elIndex="a00017" jsLoop="true">
+        <left>57</left>
+        <top>200</top>
+        <width>279</width>
+        <height>198</height>
+        <src>assets_c/video/a00012_de_myst.mp4</src>
+      </vid>
+      <img elPrio="015" elDate="2019-12-09 11:19" aa="true" pgNbr="14" cache="false" elIndex="a00011" elType="img">
+        <left>52</left>
+        <top>198</top>
+        <width>294</width>
+        <height>206</height>
+        <src>assets_c/image/a00011_de_videoMask.png</src>
+      </img>
+    </spreadpage>
+    
+    <spreadpage pgNbr="16" foldfx="0.40" imgNbr="9">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="16" cache="false" elIndex="a00007" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">800</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00007_de_page_00016_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:44" aa="true" pgNbr="16" cache="false" elIndex="a00033" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">800</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00033_en_page_00016_en.png</src>
+      </img>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:03" elType="area" pgNbr="16" elIndex="a00027">
+        <url lang="de">https://megazine3.de/de/mz3-download/download-mz3demo/</url>
+        <target>_blank</target>
+        <left lang="de">42</left>
+        <top lang="de">183</top>
+        <width lang="de">200</width>
+        <height lang="de">60</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-mail" elDate="2020-01-03 13:03" elType="area" pgNbr="16" elIndex="a00025">
+        <url lang="de">mailto:info@megazine3.de</url>
+        <target>_blank</target>
+        <left lang="de">88</left>
+        <top lang="de">275</top>
+        <width lang="de">200</width>
+        <height lang="de">60</height>
+        <overlay lang="de">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-url" elDate="2020-01-03 13:07" elType="area" pgNbr="16" elIndex="a00057">
+        <url lang="en">https://megazine3.de/en/mz3-download/download-mz3demo/</url>
+        <target>_blank</target>
+        <left lang="en">89</left>
+        <top lang="en">160</top>
+        <width lang="en">200</width>
+        <height lang="en">60</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+      <area elPrio="020" a-class="mz3-mail" elDate="2020-01-03 13:08" elType="area" pgNbr="16" elIndex="a00026">
+        <url lang="en">mailto:info@megazine3.de</url>
+        <target>_blank</target>
+        <left lang="en">103</left>
+        <top lang="en">275</top>
+        <width lang="en">200</width>
+        <height lang="en">60</height>
+        <overlay lang="en">color(0,0.3,0xe0e0e0)</overlay>
+      </area>
+    </spreadpage>
+    
+    <page pgNbr="18" imgNbr="10">
+      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="18" cache="false" elIndex="a00008" elType="pimg">
+        <left lang="de">0</left>
+        <top lang="de">0</top>
+        <width lang="de">400</width>
+        <height lang="de">600</height>
+        <src lang="de">assets_c/pimg/a00008_de_page_00018_de.png</src>
+      </img>
+      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="18" cache="false" elIndex="a00009" elType="pimg">
+        <left lang="en">0</left>
+        <top lang="en">0</top>
+        <width lang="en">400</width>
+        <height lang="en">600</height>
+        <src lang="en">assets_c/pimg/a00009_en_page_00018_en.png</src>
+      </img>
+    </page>
+  </chapter>
+</book>

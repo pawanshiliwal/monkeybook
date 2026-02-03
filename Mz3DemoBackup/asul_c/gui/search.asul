@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+
+	<style>
+	<![CDATA[
+	/* Graphic for the buttons */
+	button.close > box { background: image($mz3Buttons$btn_close.png); }
+	button.search > box { background: image($mz3Buttons$btn_search.png); }
+	/* Graphic for the scroll handle (for scrolling through results) */
+	scrollbar > button > box { background: image($mz3Buttons$btn_scroll_handle.png); width: 15; height: 15; }
+	scrollbar > button > box.over { background: image($mz3Buttons$btn_scroll_handle1.png); }
+	]]>
+
+    </style>
+	
+	<!-- Input box for the search -->
+	<box width="125" height="24" id="search_input" name="searchInput" style="container" anchors="pw-w-25,25" alpha_out="0.5">
+		<box name="search_txt_box" anchors="2,2,pw-26,ph-2" style="input">
+			<text name="txt_search" value="localize(LNG_SEARCH_TITLE, Search)"/>
+		</box>
+		<button name="btn_search" title="localize(LNG_SEARCH_START, Start search)" style="common search" anchors="pw-w,0"/>
+	</box>
+	
+	<!-- Container for displaying search results. Will be shown after a search was triggered. -->
+	<window id="search_results" width="500" height="600" style="container" x="100" y="100" mouseenabled="true">
+		<!-- Drag handle... -->
+		<box name="$drag_handle$" anchors="20,10,pw-35,20" background="gradient(linear-vertical,0xCCCCCC,0x999999)"/>
+		<!-- Close button -->
+		<button name="$btn_close$" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" style="common close" anchors="pw-w-5,5"/>
+		<!-- Title -->
+		<text value="localize(LNG_SEARCH_RESULTS_TITLE, Search results)" anchors="20,25,pw-20,45" style="info title"/>
+		<!-- Result information -->
+		<text name="result_summary" anchors="20,45,pw-20,65" style="info" multiline="true"/>
+		<!-- Scrollpane to allow scrolling through multiple results -->
+		<scrollpane anchors="10,65,pw-10,ph-10" mousewheel="y" scrolly="0">
+			<box name="$viewport$" resize="true">
+				<!-- Results will be added in this container (using instances of the "search_match" template), using a layout to automatically position results -->
+				<vflow name="results"/>
+			</box>
+			<scrollbar name="$scroll_y$" orientation="vertical" anchors="pw-15,0,pw,ph" background="gradient(linear-vertical,0x666666,0x4d4d4d)">
+				<button name="$scroll_handle$" width="15" height="15"/>
+			</scrollbar>
+		</scrollpane>
+	</window>
+	
+	<!-- Template for an actual search match, will be inserted in the "results" component in the "search_results" component. -->
+	<box id="search_match" height="thumbh+20" width="480">
+	<!-- Width minus and additional 15 for the scrollbar (to not overlap) -->
+		<box anchors="10, 10, pw-25, ph-10" style="container">
+			<!-- Used to display the page thumbnail of the page where the hit was found -->
+			<box name="thumb" width="thumbw" height="thumbh"/>
+			<!-- General information, such as page number and number of hits -->
+			<text name="information" anchors="thumbw+10,10,pw-10,30" style="info title"/>
+			<!-- A short excerpt from the page, near the first match found on the page -->
+			<text name="excerpt" anchors="thumbw+10,30,pw-10,ph-10" style="info" multiline="true" wordwrap="true"/>
+		</box>
+	</box>
+</asul>

@@ -1,0 +1,46 @@
+<application xmlns="http://ns.adobe.com/air/application/33.1">
+  <id>de.megazine3.air.mz3Viewer</id>
+  <filename>mz3Viewer</filename>
+  <name>mz3Viewer Win</name>
+  <versionNumber>2.5.4</versionNumber>
+  <versionLabel>v2.5.4  20220409 046</versionLabel>
+  <copyright>VservU GmbH 2021+</copyright>
+  <initialWindow>
+    <content>mz3Viewer.swf</content>
+    <title>mz3Viewer2</title>
+    <visible>true</visible>
+    <width>1280</width>
+    <height>720</height>
+    <x>10</x>
+    <y>10</y>
+    <autoOrients>true</autoOrients>
+    <fullScreen>false</fullScreen>
+  </initialWindow>
+  <supportedProfiles>extendedDesktop desktop</supportedProfiles>
+  <icon>
+    <image48x48>viewer.png</image48x48>
+  </icon>
+  <fileTypes>
+    <fileType>
+      <name>viewer.mz3.xml</name>
+      <extension>mz3</extension>
+      <description>MegaZine3 Descriptor MZ3 File</description>
+      <contentType>application/vnd.de.megazine3.mz3</contentType>
+      <icon>
+        <image48x48>viewer.png</image48x48>
+      </icon>
+    </fileType>
+    <fileType>
+      <name>viewer.mz3z</name>
+      <extension>mz3z</extension>
+      <description>MegaZine3 Descriptor MZ3Z File</description>
+      <contentType>application/vnd.de.megazine3.mz3z</contentType>
+      <icon>
+        <image48x48>viewer.png</image48x48>
+      </icon>
+    </fileType>
+  </fileTypes>
+  <iPhone>
+    <requestedDisplayResolution>high</requestedDisplayResolution>
+  </iPhone>
+</application>

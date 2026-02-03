@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+
+	<style>
+		<![CDATA[
+			button, button box {
+			height: 24;
+			width: 24;
+		}
+		button.console_on > box {background: image($mz3Buttons$btn_console_on.png); }
+		button.close > box {background: image($mz3Buttons$btn_close.png); }
+	]]>
+	</style>
+
+
+	<!-- Button for the navigation bar. Must be a toggle button. Toggles visibility of the 'console'. -->
+	<!-- console button -->
+	<!-- the position of the box and the padding are fix and controlled by the console plugin (reason: not embedded into the navigationframe) -->!
+	<!-- therefor any anchors or width/height settings will be overwritten!-->
+	<button id="btn_console_on" name="btn_console_on" title="localize(LNG_CONSOLE_ON, Open console)" style="common console_on" />
+
+	<box id="btn_close_box" name="btn_close_box" style="container" background="color(0xFF000000)" anchors="pw - 10 -24, 10" width="24" height="24" mouseenabled="true">
+		<!-- Close the console. -->
+		<button id="btn_close" name="btn_close" title="localize(LNG_CONSOLE_OFF, Close console )" style="common close" />
+	</box>
+
+
+</asul>

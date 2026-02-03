@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+	
+	<style>
+	<![CDATA[
+	/* Title input box */
+	button.add_left{ background: image($mz3Buttons$btn_add_left.png); }
+	button.add_right{ background: image($mz3Buttons$btn_add_right.png); }
+	button.ok > box { background: image($mz3Buttons$btn_ok.png); }
+	button.close > box { background: image($mz3Buttons$btn_nok.png); }
+	/* Actual bookmark base style (inner box) */
+	button.goto, button.goto box {
+		anchors: 0,0,pw,ph; /* Adjust to parent size, which is in turn adjusted to text field size. */
+	}
+	/* Mouse over and down effects for color set on bookmark */
+	button.goto > box.over {
+		background: color(0x666666);
+		blendmode: add;
+	}
+	button.goto > box.down {
+		background: color(0x333333);
+		blendmode: add;
+	}
+    button.common_nb, togglebutton.common, togglebutton.common button {
+		width: 21;
+		height: 48;
+		filter: dropshadow(2,45,0x000000,1,3,3,0.5,2);
+	}
+
+	/* Button style for buttons to add new bookmarks */
+	button.add {
+		title: localize(LNG_BOOKMARK_ADD, Add new bookmark);
+	}
+	button.add box {
+		background: image($mz3Buttons$add.png);
+		width: 36;
+		height: 36;
+		y: 24;
+	}
+	/* Base style for bookmark text */
+	text.title {
+		rasterize: true; /* Needed for rotation */
+		autosize: left; /* Autosize based on content */
+		font: _sans;
+		size: 14;
+		bold: true;
+		spacing: 3;
+	}
+	/* Color for bookmarks (base style) */
+	.color {
+		anchors: 0,0,pw,ph;
+		background: color(0xFFFFFF); /* White for unbiased color; color overlay is used for actual color. */
+		blendmode: multiply;
+	}
+	/* Actual bookmark container */
+	.bookmark {
+		resize: true; /* Resize for contained text element */
+		background: color(0xFFFFFF);
+		filter: dropshadow(1,90,0x000000,1,3,5,0.6,2);
+	}
+	/* Delete button */
+	button.delete {
+		resize: true; /* Adjust to inner box (see below) */
+		title: localize(LNG_BOOKMARK_DELETE, Delete this bookmark);
+		padding: 3,5,2,2; /* Adjust position to look centered */
+	}
+	button.delete > box {
+		background: image($mz3Buttons$delete.png);
+		width: 14;
+		height: 14;
+	}
+	]]>
+	</style>
+	
+	<!--
+		Containers for the bookmarks. One outer container, and the two vflows
+		for the bookmarks to the left or right, depending on their associated
+		page and current page in the book.
+		
+		The anchors take care that the bookmarks are in the right spot,
+		regardless whether a cover or an inner book page is the current
+		page.
+		
+		The padding is used to create a default offset from the top, to
+		avoid rounding mistakes make it look as though the bookmarks are
+		too far up (when they are top most one, they could then go further
+		up than the book edge, which looks like a glitch).
+		
+		The inverseorder and wrap is to make sure they are displayed in the
+		right order left and right, and that the right ones are on top for
+		depth sorting.
+		
+		The wrapfactor is set to 0 per default, so that all pages have the
+		correct position on the book edge. If no book edge is used, it is
+		recommendable to set this value to the default (1) or remove it, or
+		set some other value like 0.5 to have half the row's width as an
+		overlap.
+	-->
+    <!-- New method: Buttons for adding left or right bookmarks for the navigation bar. -->
+    <!-- Alternatively and even additionally (i.e. if these 2 lines are deleted or put into comment signs) the 'old' buttons -->
+    <!-- (see below) can / will be used -->
+    <button id="navigationbar_add_bookmark_left" name="add_bookmark_left" style="common_nb add_left" />
+    <button id="navigationbar_add_bookmark_right" name="add_bookmark_right" style="common_nb add_right" />
+
+
+    <box id="bookmarks" anchors="0,0,pagew*2?pw,pageh" clipchildren="false">
+		<!-- Container for bookmarks to be displayed on the left. -->
+		<vflow name="left" anchors="-w,10" maxheight="pageh" clipchildren="false"
+				wrapfactor="0"/>
+<!--    this is the old solution, with add-bookmark buttons on the otp left and right of the pages -->
+<!--    If no plugin navigationbar is available or the new button definitions cannot be fount -->
+<!--    (if e.g. those definitions had been put into comments), this alternate method will be used -->
+<!--        <button name="add_left" style="common add" anchors="-w-10,-h"/> -->
+		<!-- Container for bookmarks to be displayed on the right. -->
+		<vflow name="right" anchors="pw,10" maxheight="pageh" clipchildren="false"
+				inverseorder="true" wrapfactor="0"/>
+<!--        <button name="add_right" style="common add" anchors="pw+10,-h"/> -->
+	</box>
+	
+	<!--
+		Bookmark template. This element will be used to display the actual
+		title of the bookmark, i.e. the name it was given (e.g. "Contents").
+		
+		This is used when the bookmark is displayed to the left of the book,
+		i.e. when the associated page is lower than the current page.
+		
+		When using an image background for better button graphics (i.e.
+		background="image(...)"), the used image should be grayscale, when
+		using the bookmark colering using the 'color' element via overlay.
+	-->
+	<box id="bookmark_left" style="bookmark">
+		<!--
+			This element is used for coloring a bookmark, by putting an overlay
+			over the base color of the button (button@background). This
+			achieved by adding a ColorTransform to this object, with the color
+			given in the bookmark description. This is why the background color
+			has to be white. Changing this to another value will affect all
+			bookmarks, by giving them a tint.
+		-->
+		<box name="color" style="color"/>
+		
+		<!-- The button used to actually navigate to the page when clicked. -->
+		<button name="goto" style="goto"/>
+		
+		<!--
+			The actual text, surrounded by a padding vflow, to add some padding
+			to the bookmark overall. The actual title of the bookmark will be
+			set as the value of the 'title' text element.
+			The 'delete' button may be removed by the engine for undeletable
+			bookmarks (those from the book definition are undeletable by
+			default, custom usercreated ones cannot be undeletable).
+		-->
+		<vflow padding="5,5,5,5">
+			<text name="title" rotation="-90" style="title"/>
+			<button name="delete" style="common delete"/>
+		</vflow>
+	</box>
+	
+	<!--
+		Same as above, for buttons on the right.
+	-->
+	<box id="bookmark_right" style="bookmark">
+		<box name="color" style="color"/>
+		<button name="goto" style="goto"/>
+		<vflow padding="5,5,5,5">
+			<text name="title" rotation="90" style="title"/>
+			<button name="delete" style="common delete"/>
+		</vflow>
+	</box>
+	
+	<!--
+		Box that's shown to allow entering a title for a new bookmark.
+	-->
+	<window id="addframe" anchors="0,0,pw,ph" style="container" mouseenabled="true">
+		<hflow style="container" padding="3,3,3,3" anchors="(pw-w)/2,(ph-h)/2">
+			<box width="200" height="48" style="input">
+				<text name="title"/>
+			</box>
+			<box width="10"/> <!-- spacer -->
+			<button name="ok" title="localize(LNG_BOOKMARK_OK, OK)" style="common ok"/>
+			<button name="$btn_close$" title="localize(LNG_BOOKMARK_CANCEL, Cancel)" style="common close"/>
+		</hflow>
+	</window>
+</asul>
