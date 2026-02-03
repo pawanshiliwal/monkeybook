@@ -86,8 +86,24 @@
     </spreadpage>
     
     <spreadpage pgNbr="4" imgNbr="3">
-      <img src="assets_c/image/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
-      <img src="assets_c/image/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="4" cache="false" elIndex="a00030" elType="pimg"/>        
+        <!-- backgroung image -->
+      <img src="assets_c/image/page_4_5/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+
+      <!-- title image  -->
+      <img src="assets_c/image/page_4_5/title.png" left="116" top="275" height="166" width="720" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+
+      <!-- para image  -->
+      <img src="assets_c/image/page_4_5/para.png" left="184" top="444" height="65" width="620" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
+
+      <!-- page no 4 left side  -->
+      <!-- most small yellow box 1 -->
+      <area left="116"  top="200" width="28" height="28" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.8,1,0xF6E919)"/>
+
+      <!-- small yellow box 2 -->
+      <area left="130"  top="216" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+
+      <!-- small yellow box 3 -->
+      <area left="710"  top="525" width="133" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
     </spreadpage>
     
     <spreadpage pgNbr="6" imgNbr="4">
