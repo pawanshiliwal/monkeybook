@@ -120,6 +120,11 @@
       <!-- tyre image -->
       <img src="assets_c/image/page_4_5/tyre-image.png" left="1220" top="449" height="582" width="520" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
 
+      <!-- bottom content 1 -->
+      <img src="assets_c/image/page_4_5/bottom-content-1.png" left="1533" top="1064" height="60" width="192" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/bottom-content-2.png" left="1280" top="1064" height="64" width="222" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/bottom-content-3.png" left="1040" top="1064" height="64" width="222" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+
     </spreadpage>
     
     <spreadpage pgNbr="6" imgNbr="4">
