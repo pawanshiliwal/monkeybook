@@ -129,32 +129,55 @@
     
     <spreadpage pgNbr="6" imgNbr="4">
       <img src="assets_c/image/6.png" left="0" top="0" height="1200" width="1920"  />
-
-      <!-- page 6 text content image  -->
+      <!-- page no 6  -->
+      <!--  content image  -->
       <img src="assets_c/image/page_6_7/page_6_text.png" left="88" top="328" height="62" width="350" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
         
-      <!-- page no 6 left side  yellow line 1 -->
+      <!-- left side  yellow line 1 -->
       <area left="877"  top="509" width="24" height="300" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(1,1,0xF6E919)"/>
 
-      <!-- page no 6 right side  yellow line 2 -->
+      <!-- right side  yellow line 2 -->
       <area left="64"  top="509" width="24" height="300" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(1,1,0xF6E919)"/>
 
+      <!-- most small yellow box 1 -->
+      <area left="849"  top="932" width="27" height="26" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
+
+      <!-- small yellow box 2 -->
+      <area left="820"  top="903" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+
+
       <!-- first video page 6 -->
-      <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4" left="90" top="432" height="445" width="785" autoplay="false" />
+      <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4"  left="90" top="432" height="445" width="785" autoplay="false" />
       <img src="assets_c/image/pause.png" left="90" top="890" height="55" width="55"/>
       <area left="90"   top="890" height="50" width="50" url="video::vid1:play"/>
 
-       <!-- second video page 7  -->
-      <vid id="vid2" src="assets_c/video/ForBiggerMeltdowns.mp4" left="1220" top="245" height="366" width="647" autoplay="false"/>
+
+      <!-- page 7  -->
+      <area left="959"  top="0" width="963" height="281"  bgcolor="0xF6E919" elType="area" elPrio="10"  overlay="color(1,1,0xF6E919)"/>
+      
+      <!-- second video TOP page 7  -->
       <img src="assets_c/image/pause.png" left="1220" top="625" height="55" width="55"/>
+      <vid id="vid2" src="assets_c/video/ForBiggerMeltdowns.mp4" elPrio="1000000" left="1220" top="245" height="366" width="647" autoplay="false"/>
       <area left="1220" top="625" height="50" width="50" url="video::vid2:play"/>
       
+      <!-- most small yellow box 1 -->
+      <area left="1139"  top="602" width="29" height="29" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
 
-      <!-- third video  page 7 -->
+      <!-- small yellow box 2 -->
+      <area left="1152"  top="574" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+
+      <!-- top yellow boxes -->
+
+      <!-- third video BOTTOM  page 7 -->
       <vid id="vid3" src="assets_c/video/ForBiggerMeltdowns.mp4" left="1046" top="718" height="366" width="647" autoplay="false" />
       <img src="assets_c/image/pause.png" left="1046" top="1100" height="55" width="55"/>
       <area left="1046" top="1100" height="50" width="50" url="video::vid3:play"/>
 
+        <!-- most small yellow box 1 -->
+      <area left="1747"  top="702" width="28" height="28" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
+
+      <!-- small yellow box 2 -->
+      <area left="1718"  top="715" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
 
 
 
