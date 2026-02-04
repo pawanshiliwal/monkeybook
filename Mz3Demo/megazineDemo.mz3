@@ -145,6 +145,8 @@
       <!-- small yellow box 2 -->
       <area left="820"  top="903" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
 
+      <!-- show current page number on top left corner -->
+      <img src="assets_c/image/page_6_7/page_no_5.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
 
       <!-- first video page 6 -->
       <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4"  left="90" top="432" height="445" width="785" autoplay="false" />
@@ -153,11 +155,17 @@
 
 
       <!-- page 7  -->
+      <!-- top yellow box -->
       <area left="959"  top="0" width="963" height="281"  bgcolor="0xF6E919" elType="area" elPrio="10"  overlay="color(1,1,0xF6E919)"/>
-      
+
+      <img src="assets_c/image/page_6_7/page_7_text.png" left="959" top="100" height="120" elPrio="9999" width="540"/>
+
+      <!-- show current page number on top right corner -->
+      <img src="assets_c/image/page_6_7/page_no_6.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
+
       <!-- second video TOP page 7  -->
-      <img src="assets_c/image/pause.png" left="1220" top="625" height="55" width="55"/>
-      <vid id="vid2" src="assets_c/video/ForBiggerMeltdowns.mp4" elPrio="1000000" left="1220" top="245" height="366" width="647" autoplay="false"/>
+      <img src="assets_c/image/pause.png" left="1220" top="625" height="55"  width="55"/>
+      <vid id="vid2" src="assets_c/video/ForBiggerMeltdowns.mp4" elPrio="12" left="1220" top="245" height="366" width="647" autoplay="false"/>
       <area left="1220" top="625" height="50" width="50" url="video::vid2:play"/>
       
       <!-- most small yellow box 1 -->
@@ -166,14 +174,14 @@
       <!-- small yellow box 2 -->
       <area left="1152"  top="574" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
 
-      <!-- top yellow boxes -->
+
 
       <!-- third video BOTTOM  page 7 -->
       <vid id="vid3" src="assets_c/video/ForBiggerMeltdowns.mp4" left="1046" top="718" height="366" width="647" autoplay="false" />
       <img src="assets_c/image/pause.png" left="1046" top="1100" height="55" width="55"/>
       <area left="1046" top="1100" height="50" width="50" url="video::vid3:play"/>
 
-        <!-- most small yellow box 1 -->
+      <!-- most small yellow box 1 -->
       <area left="1747"  top="702" width="28" height="28" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
 
       <!-- small yellow box 2 -->
