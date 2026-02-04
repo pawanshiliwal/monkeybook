@@ -114,6 +114,11 @@
   
       <!-- type title text image -->
       <img src="assets_c/image/page_4_5/tyre-title.png" left="1100" top="202" height="279" width="475" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
+      <!-- type title text image -->
+      <img src="assets_c/image/page_4_5/tyre-title.png" left="1100" top="202" height="279" width="475" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
+
+      <!-- tyre image -->
+      <img src="assets_c/image/page_4_5/tyre-image.png" left="1220" top="449" height="582" width="520" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
 
     </spreadpage>
     
