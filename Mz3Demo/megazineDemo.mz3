@@ -239,9 +239,15 @@
 
       <!-- first video  -->
 
-      <img src="assets_c/image/page_10_11/page_10_text_1.png" left="0" top="100" height="120" elPrio="9999" width="610"/>
+      <img src="assets_c/image/page_10_11/page_10_text_1.png" left="0" top="100" height="502" elPrio="9999" width="702"/>
 
-      <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="78" top="218" height="338`" width="595" autoplay="true" />
+      <!-- background yellow box 1 page 10  -->
+      <area left="61"  top="278" width="627" height="230" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
+
+      <!-- background yellow box 2 page 10  -->
+      <area left="0"  top="640" width="569" height="210" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
+
+      <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="78" top="218" height="338" width="595" autoplay="true" />
 
        <!-- second video  -->
       <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="262" top="780" height="338" width="595" autoplay="true"/>
