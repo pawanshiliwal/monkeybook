@@ -247,6 +247,8 @@
       <!-- background yellow box 2 page 10  -->
       <area left="0"  top="640" width="569" height="210" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
 
+      <img src="assets_c/image/page_10_11/page_10_text_2.png" left="0" top="680" height="85" elPrio="9999" width="500"/>
+
       <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="78" top="218" height="338" width="595" autoplay="true" />
 
        <!-- second video  -->
