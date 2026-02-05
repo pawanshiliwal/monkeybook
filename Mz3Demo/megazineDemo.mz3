@@ -237,7 +237,10 @@
     <spreadpage pgNbr="10" bgcolor="0x00000000" imgNbr="6">
       <img src="assets_c/image/10.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
 
-           <!-- first video  -->
+      <!-- first video  -->
+
+      <img src="assets_c/image/page_10_11/page_10_text_1.png" left="0" top="100" height="120" elPrio="9999" width="610"/>
+
       <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="78" top="218" height="338`" width="595" autoplay="true" />
 
        <!-- second video  -->
