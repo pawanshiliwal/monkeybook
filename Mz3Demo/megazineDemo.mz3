@@ -254,6 +254,7 @@
        <!-- second video  -->
       <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="262" top="780" height="338" width="595" autoplay="true"/>
       
+      <img src="assets_c/image/page_10_11/page_11_text_1.png" left="960" top="120" height="170" elPrio="9999" width="635"/>
 
       <!-- fourth video  -->
       <vid  src="assets_c/video/video.mp4" left="1378" top="300" height="800" width="440" autoplay="true" />
