@@ -235,6 +235,10 @@
     </spreadpage>
     
     <spreadpage pgNbr="10" bgcolor="0x00000000" imgNbr="6">
+
+      <!-- show current page number on top left corner -->
+      <img src="assets_c/image/page_9_10/page_no_9.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
+
       <img src="assets_c/image/10.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
 
       <!-- first video  -->
@@ -254,14 +258,24 @@
        <!-- second video  -->
       <vid  src="assets_c/video/ForBiggerMeltdowns.mp4" left="262" top="780" height="338" width="595" autoplay="true"/>
       
-      <img src="assets_c/image/page_10_11/page_11_text_1.png" left="960" top="120" height="170" elPrio="9999" width="635"/>
+      <img src="assets_c/image/page_10_11/page_11_text_1.png" left="954" top="110" height="160" elPrio="9999" width="633"/>
+      <img src="assets_c/image/page_10_11/page_11_text_2.png" left="1042" top="305" height="92" elPrio="9999" width="290"/>
 
       <!-- fourth video  -->
       <vid  src="assets_c/video/video.mp4" left="1378" top="300" height="800" width="440" autoplay="true" />
+
+      <!-- show current page number on top right corner -->
+      <img src="assets_c/image/page_9_10/page_no_10.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
     </spreadpage>
     
     <spreadpage pgNbr="12" imgNbr="7">
-          <img src="assets_c/image/12.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+      <!-- show current page number on top left corner -->
+      <img src="assets_c/image/page_11_12/page_no_11.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
+          
+      <img src="assets_c/image/12.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+
+      <!-- show current page number on top right corner -->
+      <img src="assets_c/image/page_11_12/page_no_12.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
     </spreadpage>
     
     <spreadpage pgNbr="14" foldfx="0.40" >
