@@ -270,12 +270,19 @@
     
     <spreadpage pgNbr="12" imgNbr="7">
       <!-- show current page number on top left corner -->
-      <img src="assets_c/image/page_11_12/page_no_11.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
+      <img src="assets_c/image/page_12_13/page_no_12.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
+
           
       <img src="assets_c/image/12.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
 
+      <!-- text content image 1 page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_text_1.png" left="0" top="105" height="140" elPrio="9999" width="418"/>
+
+      <!-- text content image 2 page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_text_2.png" left="83" top="260" height="42" elPrio="9999" width="337"/>
+
       <!-- show current page number on top right corner -->
-      <img src="assets_c/image/page_11_12/page_no_12.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
+      <img src="assets_c/image/page_12_13/page_no_13.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
     </spreadpage>
     
     <spreadpage pgNbr="14" foldfx="0.40" >
