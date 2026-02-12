@@ -281,8 +281,30 @@
       <!-- text content image 2 page 12 -->
       <img src="assets_c/image/page_12_13/page_12_text_2.png" left="83" top="260" height="42" elPrio="9999" width="337"/>
 
+      <!-- text content image 3 page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_text_3.png" left="620" top="290" height="70" elPrio="99999" width="337"/>
+      
+      <!-- text content image 4 page 12 car  -->
+      <img src="assets_c/image/page_12_13/page_12_image_car.png" left="3" top="325" height="780" elPrio="9999" width="872"/>
+
+
+      <!-- text content image 1 bottom page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_image_car_bottom_1.png" left="82" top="1096" height="60" elPrio="9999" width="143"/>
+
+      <!-- text content image 2 bottom page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_image_car_bottom_2.png" left="243" top="1096" height="60" elPrio="9999" width="129"/>
+
+      <!-- text content image 3 bottom page 12 -->
+      <img src="assets_c/image/page_12_13/page_12_image_car_bottom_3.png" left="390" top="1096" height="60" elPrio="9999" width="147"/>
+
+      <!-- background yellow box page 12 -->
+      <area left="860" top="1085" width="41" height="43" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+
       <!-- show current page number on top right corner -->
       <img src="assets_c/image/page_12_13/page_no_13.png" left="1860" top="0" height="60" elPrio="9999" width="35"/>
+
+      <!-- show background image of page 13 -->
+      <img src="assets_c/image/page_12_13/page_13_image_bg.png" left="960" top="0" height="1200" elPrio="9999" width="960"/>
     </spreadpage>
     
     <spreadpage pgNbr="14" foldfx="0.40" >
