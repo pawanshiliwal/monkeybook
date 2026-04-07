@@ -1,121 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?><!DOCTYPE book SYSTEM 'https://megazine3.de/megazine2.dtd'><book  bookActualVersion="2.4.4.004" showNavbar="yes" isDefaultValue="true" showBurgerMenu="yes" licensekey="53a64d1b4f38e04ed7a8ad17bc5ba425:MZ3-BASE:VservU GmbH"   maxloaded="0" showPoweredBy="false" showContactData="false" xmlName="mz3ToolBookData" sliderepeat="true" publishTechnology="air" bookNavbarHeight="2" dragrange="44" defaultLanguage="de" plugins="gestures,console,navigationbar,keyboardnavigation,links,javascript,pdflinks,anchors,zoom,titles,index,swfaddress,overlays,slideshow,tuio" thumbauto="false" pageWidth2="1920" supportSinglePageButton="false" errorlevel="WARNING" guipath="asul_c/gui/" zoomminscale="0.1"  foldfx="0.40" zoommaxscale="4.0" zoomsnap="0.1,0.25,0.5,0.75,1.0,1.5,2.0,4" modificationDate="2020-01-0316:58" zoomsteps="2" creationDate="2019-12-0812:14" thumbloadtext="pleasewait" thumbloadtextsize="12" guiBigPath="asul_c/guiBig/" cornerhint="false" mz3ButtonsBigPath="asul_c/mz3ButtonsBig/" thumbCount="0" startpage="1" mz3TitleName="megazineDemo" pagewidth="960" htmlJsMissingHint="MegaZine3Title(missingJavascript)" pageheight="1200" htmlTitle="MegaZine3Title" searchindex="" htmlKeywords="eBook,Mz3Title" htmlIcon="https://megazine3.de/downloads/logos/favicon.ico" customLogoRight="10" htmlBarStyle="black" bgcolor="0x00c3b586" pageType="double" bookBgColor="#ff000000" publOptionLicenseKey="3650d3ba7162d1f85281ce9f8f5fa7e7:Hans J Nuecke" htmlContentType="book" lang="de,en" pageCount="34" customLogoBottom="10" pagethickness="3.0" htmlAppCapable="true">
   <chapter ch-nbr="1">
     
+    <!-- page 1 -->
     <page  bgcolor="0xFFFFFF" pgNbr="1" imgNbr="1"  stiff="true">
-      <img elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="1" cache="false" elIndex="a00001" elType="pimg">
-        <left lang="de">60</left>
-        <right lang="de">60</right>
-        <top lang="de">60</top>
-        <bottom lang="de">60</bottom>
-        <width lang="de">840</width>
-        <height lang="de">1080</height>
-        <src lang="de">assets_c/image/first.jpg</src>
-        <overlay>
-          alpha(0.5)
-       </overlay>
-      </img>
-      <img elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="1" cache="false" elIndex="a00042" elType="pimg">
-        <left lang="en">60</left>  
-        <right lang="en">60</right>
-        <top lang="en">60</top>
-          <bottom lang="en">60</bottom>
-        <width lang="en">840</width>
-        <height lang="en">1080</height>
-        <src lang="en">assets_c/image/first.jpg</src>
-        <overlay>
-             alpha(0.5)
-        </overlay>
-      </img> 
-      <img src="assets_c/image/first-logo.png" left="365" top="480" height="230" width="230" keepar="true"/>
-      <img src="assets_c/image/firs-text.png" left="320" top="850" height="0.9" keepar="true"/>
-      <area bgcolor="0xF6E919" elType="area" elPrio="999" pgNbr="1">
-        <left>875</left>
-        <top>0</top>
-        <width>50</width>
-        <height>120</height>
-        <overlay>
-            color(0.8,1,0xF6E919)
-        </overlay>
-      </area >
-      <area bgcolor="0xF6E919" elType="area" elPrio="999" pgNbr="1">
-        <left>130</left>
-        <top>1110</top>
-        <width>50</width>
-        <height>50</height>
-        <overlay>
-            color(0.8,1,0xF6E919)
-        </overlay>
-      </area >
+      <!-- first page background image -->
+      <img src="assets_c/image/page_1/Cover.jpg" left="0" top="0" height="1200" width="960" keepar="true"/>
     </page>
 
     <!-- page 2 and 3 -->
     <spreadpage pgNbr="2" imgNbr="2">
-      <img src="assets_c/image/2.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
-         <!-- most small yellow box 1 -->
-      <area left="1685" 
-      top="235" 
-      width="43" 
-      height="43" 
-      bgcolor="0xF6E919" 
-      elType="area" 
-      elPrio="999" 
-        overlay="color(0.8,1,0xF6E919)"/>
-
-        <!-- small yellow box 2 -->
-      <area left="1710" 
-      top="218" 
-      width="28" 
-      height="28" 
-      bgcolor="0xF6E919" 
-      elType="area" 
-      elPrio="999" 
-        overlay="color(0.8,1,0xF6E919)"/>
-
-        <!-- big yellow box 3 -->
-      <area left="1131" 
-      top="440" 
-      width="133" 
-      height="43" 
-      bgcolor="0xF6E919" 
-      elType="area" 
-      elPrio="999" 
-        overlay="color(0.8,1,0xF6E919)"/>
-
+      <!-- let image  -->
+      <img src="assets_c/image/page_2_3/left.jpg"  left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
+      <!-- right image  -->
+      <img src="assets_c/image/page_2_3/right.png" left="960" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
       <!-- text image   -->
-      <img src="assets_c/image/page_2_3/text1.png" left="1195" top="299" height="80" width="480" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
+      <img src="assets_c/image/page_2_3/text.png"  left="1195" top="299" height="80" width="480" elPrio="005" elDate="2019-12-10 23:31" aa="true" pgNbr="2" cache="false" elIndex="a00029" elType="pimg"/>
     </spreadpage>
     
+     <!-- page 4 and 5 -->
     <spreadpage pgNbr="4" imgNbr="3">
         <!-- backgroung image -->
-      <img src="assets_c/image/page_4_5/4.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/Cover.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/left.png" left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
 
       <!-- title image  -->
-      <img src="assets_c/image/page_4_5/title.png" left="116" top="275" height="166" width="720" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/para_title.png" left="122" top="280" height="215" width="710" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
 
       <!-- para image  -->
-      <img src="assets_c/image/page_4_5/para.png" left="184" top="444" height="65" width="620" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
+      <!-- <img src="assets_c/image/page_4_5/para.png" left="184" top="444" height="65" width="620" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/> -->
 
       <!-- page no 4 left side  -->
       <!-- most small yellow box 1 -->
-      <area left="116"  top="200" width="28" height="28" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.8,1,0xF6E919)"/>
+      <!-- <area left="116"  top="200" width="28" height="28" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.8,1,0xF6E919)"/> -->
 
       <!-- small yellow box 2 -->
-      <area left="130"  top="216" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+      <!-- <area left="130"  top="216" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/> -->
 
       <!-- small yellow box 3 -->
-      <area left="710"  top="525" width="133" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+      <!-- <area left="710"  top="525" width="133" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/> -->
 
       <!-- page no 5 right side  -->
       <!-- most small yellow box 1 -->
-      <area left="1073"  top="170" width="24" height="24" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.8,1,0xF6E919)"/>
+      <!-- <area left="1073"  top="170" width="24" height="24" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.8,1,0xF6E919)"/> -->
 
       <!-- small yellow box 2 -->
-      <area left="1085"  top="182" width="38" height="38"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
+      <!-- <area left="1085"  top="182" width="38" height="38"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/> -->
   
       <!-- type title text image -->
-      <img src="assets_c/image/page_4_5/tyre-title.png" left="1100" top="202" height="279" width="475" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
-      <!-- type title text image -->
-      <img src="assets_c/image/page_4_5/tyre-title.png" left="1100" top="202" height="279" width="475" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/tyre-title.png" left="1148" top="250" height="170" width="380" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
 
       <!-- tyre image -->
       <img src="assets_c/image/page_4_5/tyre-image.png" left="1220" top="449" height="582" width="520" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
@@ -205,10 +137,10 @@
       <area left="30"  top="307" width="460" height="245" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
 
        <!-- first video  -->
-      <vid  src="assets_c/video/video.mp4" left="85" top="240" height="580" width="322" autoplay="true" />
+      <vid  src="assets_c/video/video.mp4" left="85" top="240" height="580" width="322"  autoplay="true" onlywhenactive="true" restart="true"  loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_12_text_1.png" />
 
        <!-- second video  -->
-      <vid  src="assets_c/video/video.mp4" left="485" top="265" height="780" width="425" autoplay="true"/>
+      <vid   src="assets_c/video/video.mp4" left="485" top="265" height="780" width="425"  autoplay="true" onlywhenactive="true" restart="true" loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_12_text_1.png"/>
 
       <!-- page 9 -->
       
