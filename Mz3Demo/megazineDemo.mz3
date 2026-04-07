@@ -280,9 +280,24 @@
     <spreadpage pgNbr="32" foldfx="0.40" >
          <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
     </spreadpage>
+    <spreadpage pgNbr="34" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="36" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="38" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="40" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
+    <spreadpage pgNbr="42" foldfx="0.40" >
+         <img src="assets_c/image/32.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    </spreadpage>
 
-    <page pgNbr="33" imgNbr="10">
-         <img src="assets_c/image/last.png" left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    <page pgNbr="44" imgNbr="10">
+         <img src="assets_c/image/page_23/last.jpg" left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
     </page>
   </chapter>
 </book>
