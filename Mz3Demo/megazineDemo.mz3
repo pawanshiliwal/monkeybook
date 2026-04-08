@@ -61,30 +61,31 @@
     </spreadpage>
     
     <spreadpage pgNbr="6" imgNbr="4">
-      <img src="assets_c/image/6.png" left="0" top="0" height="1200" width="1920"  />
+      <!-- <img src="assets_c/image/6.png" left="0" top="0" height="1200" width="1920"  /> -->
       <!-- page no 6  -->
-      <!--  content image  -->
-      <img src="assets_c/image/page_6_7/page_6_text.png" left="88" top="328" height="62" width="350" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+
+      <!-- diogonal line image -->
+      <img src="assets_c/image/page_6_7/diagonal.png" left="478" top="0" height="156" width="442" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      
+      <!-- left text 1 image -->
+      <img src="assets_c/image/page_6_7/page_6_text_1.png" left="110" top="98" height="68" width="442" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      
+      <!-- left text 1 yellow image -->
+      <img src="assets_c/image/page_6_7/left-yellow-line.png" left="0" top="127" height="60" width="730" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
         
-      <!-- left side  yellow line 1 -->
-      <area left="877"  top="509" width="24" height="300" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(1,1,0xF6E919)"/>
+      <!-- left side background yellow box -->
+      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="0" top="127" height="60" width="730" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
-      <!-- right side  yellow line 2 -->
-      <area left="64"  top="509" width="24" height="300" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(1,1,0xF6E919)"/>
 
-      <!-- most small yellow box 1 -->
-      <area left="849"  top="932" width="27" height="26" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
 
-      <!-- small yellow box 2 -->
-      <area left="820"  top="903" width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
 
       <!-- show current page number on top left corner -->
       <img src="assets_c/image/page_6_7/page_no_5.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
 
       <!-- first video page 6 -->
-      <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4"  left="90" top="432" height="445" width="785" autoplay="false" />
+      <!-- <vid id="vid1" src="assets_c/video/ForBiggerMeltdowns.mp4"  left="90" top="432" height="445" width="785" autoplay="false" />
       <img src="assets_c/image/pause.png" left="90" top="890" height="55" width="55"/>
-      <area left="90"   top="890" height="50" width="50" url="video::vid1:play"/>
+      <area left="90"   top="890" height="50" width="50" url="video::vid1:play"/> -->
 
 
       <!-- page 7  -->
