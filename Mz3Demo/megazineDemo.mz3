@@ -22,6 +22,7 @@
         <!-- backgroung image -->
       <img src="assets_c/image/page_4_5/Cover.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
       <img src="assets_c/image/page_4_5/left.png" left="0" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/right.png" left="960" top="0" height="1200" width="960" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
 
       <!-- title image  -->
       <img src="assets_c/image/page_4_5/para_title.png" left="122" top="280" height="215" width="710" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00016" elType="pimg"/>
@@ -50,12 +51,12 @@
       <img src="assets_c/image/page_4_5/tyre-title.png" left="1148" top="250" height="170" width="380" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00017" elType="pimg"/>
 
       <!-- tyre image -->
-      <img src="assets_c/image/page_4_5/tyre-image.png" left="1220" top="200" height="882" width="577" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/tyre-image.png" left="1220" top="200" height="882" width="585" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
 
       <!-- bottom content 1 -->
-      <img src="assets_c/image/page_4_5/bottom-content-1.png" left="1533" top="1064" height="60" width="192" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
-      <img src="assets_c/image/page_4_5/bottom-content-2.png" left="1280" top="1064" height="64" width="222" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
-      <img src="assets_c/image/page_4_5/bottom-content-3.png" left="1040" top="1064" height="64" width="222" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/bottom-content-3.png" left="1040" top="1064" height="55" width="200" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/bottom-content-2.png" left="1280" top="1064" height="55" width="200" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
+      <img src="assets_c/image/page_4_5/bottom-content-1.png" left="1533" top="1064" height="55" width="192" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="4" cache="false" elIndex="a00018" elType="pimg"/>
 
     </spreadpage>
     
