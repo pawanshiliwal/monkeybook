@@ -90,7 +90,7 @@
       <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="0" top="614" height="265" width="786" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
             
       <!-- left text 2 image -->
-      <img src="assets_c/image/page_6_7/page_6_text_2.png" left="110" top="650" height="68" width="552" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/page_6_text_2.png" left="84" top="650" height="68" width="592" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
       <!-- left white line image -->
       <img src="assets_c/image/page_6_7/left-white-line.png" left="0" top="680" height="60" width="740" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
@@ -102,7 +102,7 @@
       <img src="assets_c/image/page_6_7/play.png" left="235" top="1090" height="50" width="50" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
       <!-- left bottom yellow box -->
-      <img src="assets_c/image/page_6_7/page_6_box_1.png" left="773" top="1090" height="60" width="45" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/page_6_box_1.png" left="773" top="1090" height="60" width="60" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
 
       <!-- show current page number on top left corner -->
