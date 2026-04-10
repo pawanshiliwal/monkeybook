@@ -64,6 +64,9 @@
       <!-- <img src="assets_c/image/page_6_7/6.png" left="0" top="0" height="1200" width="960" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"  /> -->
       <!-- page no 6  -->
 
+      <!-- left shade image  -->
+      <img src="assets_c/image/page_6_7/left_shade.png" left="0" top="915" height="282" width="480" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      
       <!-- diogonal line image -->
       <img src="assets_c/image/page_6_7/diagonal.png" left="477" top="0" height="154" width="454" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
