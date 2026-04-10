@@ -61,29 +61,29 @@
     </spreadpage>
     
     <spreadpage pgNbr="6" imgNbr="4">
-      <img src="assets_c/image/page_6_7/6.png" left="0" top="0" height="1200" width="960" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"  />
+      <!-- <img src="assets_c/image/page_6_7/6.png" left="0" top="0" height="1200" width="960" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"  /> -->
       <!-- page no 6  -->
 
       <!-- diogonal line image -->
-      <img src="assets_c/image/page_6_7/diagonal.png" left="478" top="0" height="156" width="442" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/diagonal.png" left="477" top="0" height="154" width="454" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
       <!-- left text 1 image -->
-      <img src="assets_c/image/page_6_7/page_6_text_1.png" left="110" top="98" height="68" width="442" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/page_6_text_1.png" left="100" top="96" height="68" width="450" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
       <!-- left yellow line image -->
-      <img src="assets_c/image/page_6_7/left-yellow-line.png" left="0" top="127" height="60" width="740" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/left-yellow-line.png" left="0" top="123" height="60" width="749" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
         
       <!-- left side background yellow box 1 -->
-      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="45" top="260" height="230" width="610" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="35" top="260" height="220" width="627" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
       <!-- left box content image 1-->
       <img src="assets_c/image/page_6_7/page_6_box.png" left="674" top="245" height="60" width="60" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
       <!-- left box image overal yellow-->
-      <img src="assets_c/image/page_6_7/left_image_brain.png" left="90" top="225" height="310" width="520" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/left_image_brain.png" left="79" top="212" height="307" width="539" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
       <!-- left yellow play button-->
-      <img src="assets_c/image/page_6_7/play.png" left="90" top="555" height="50" width="50" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <img src="assets_c/image/page_6_7/play.png" left="83" top="537" height="50" width="50" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
 
       <!-- left side background yellow box 2-->
