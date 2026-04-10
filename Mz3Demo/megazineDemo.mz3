@@ -61,7 +61,7 @@
     </spreadpage>
     
     <spreadpage pgNbr="6" imgNbr="4">
-      <!-- <img src="assets_c/image/6.png" left="0" top="0" height="1200" width="1920"  /> -->
+      <img src="assets_c/image/page_6_7/6.png" left="0" top="0" height="1200" width="960" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"  />
       <!-- page no 6  -->
 
       <!-- diogonal line image -->
@@ -70,16 +70,39 @@
       <!-- left text 1 image -->
       <img src="assets_c/image/page_6_7/page_6_text_1.png" left="110" top="98" height="68" width="442" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
-      <!-- left text 1 yellow image -->
+      <!-- left yellow line image -->
       <img src="assets_c/image/page_6_7/left-yellow-line.png" left="0" top="127" height="60" width="740" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
         
-      <!-- left side background yellow box -->
-      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="45" top="260" height="300" width="610" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      <!-- left side background yellow box 1 -->
+      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="45" top="260" height="230" width="610" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
       
-      <!-- left box content image -->
+      <!-- left box content image 1-->
       <img src="assets_c/image/page_6_7/page_6_box.png" left="674" top="245" height="60" width="60" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      
+      <!-- left box image overal yellow-->
+      <img src="assets_c/image/page_6_7/left_image_brain.png" left="90" top="225" height="310" width="520" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+      
+      <!-- left yellow play button-->
+      <img src="assets_c/image/page_6_7/play.png" left="90" top="555" height="50" width="50" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
 
+      <!-- left side background yellow box 2-->
+      <img src="assets_c/image/page_6_7/left_yellow_bg.png" left="0" top="614" height="265" width="786" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+            
+      <!-- left text 2 image -->
+      <img src="assets_c/image/page_6_7/page_6_text_2.png" left="110" top="650" height="68" width="552" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+
+      <!-- left white line image -->
+      <img src="assets_c/image/page_6_7/left-white-line.png" left="0" top="680" height="60" width="740" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+       
+      <!-- left box content image 2 -->
+      <img src="assets_c/image/page_6_7/brain_2.png" left="235" top="765" height="310" width="538" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+          
+      <!-- left yellow play button-->
+      <img src="assets_c/image/page_6_7/play.png" left="235" top="1090" height="50" width="50" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
+
+      <!-- left bottom yellow box -->
+      <img src="assets_c/image/page_6_7/page_6_box_1.png" left="773" top="1090" height="60" width="45" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
 
       <!-- show current page number on top left corner -->
