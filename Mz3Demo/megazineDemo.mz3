@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?><!DOCTYPE book SYSTEM 'https://megazine3.de/megazine2.dtd'><book  bookActualVersion="2.4.4.004" showNavbar="yes" isDefaultValue="true" showBurgerMenu="yes" licensekey="3ac416782b0c49faff58656aba9bc443"   maxloaded="0" showPoweredBy="false" showContactData="false" xmlName="mz3ToolBookData" sliderepeat="true" publishTechnology="air" bookNavbarHeight="2" dragrange="44" defaultLanguage="de" plugins="gestures,console,navigationbar,keyboardnavigation,links,javascript,pdflinks,anchors,zoom,titles,index,swfaddress,overlays,slideshow,tuio" thumbauto="false" pageWidth2="1920" supportSinglePageButton="false" errorlevel="WARNING" guipath="asul_c/gui/" zoomminscale="0.1"  foldfx="0.40" zoommaxscale="4.0" zoomsnap="0.1,0.25,0.5,0.75,1.0,1.5,2.0,4" modificationDate="2020-01-0316:58" zoomsteps="2" creationDate="2019-12-0812:14" thumbloadtext="pleasewait" thumbloadtextsize="12" guiBigPath="asul_c/guiBig/" cornerhint="false" mz3ButtonsBigPath="asul_c/mz3ButtonsBig/" thumbCount="0" startpage="1" mz3TitleName="megazineDemo" pagewidth="960" htmlJsMissingHint="MegaZine3Title(missingJavascript)" pageheight="1200" htmlTitle="MegaZine3Title" searchindex="" htmlKeywords="eBook,Mz3Title" htmlIcon="https://megazine3.de/downloads/logos/favicon.ico" customLogoRight="10" htmlBarStyle="black" bgcolor="0x00c3b586" pageType="double" bookBgColor="#ff000000" publOptionLicenseKey="3650d3ba7162d1f85281ce9f8f5fa7e7:Hans J Nuecke" htmlContentType="book" lang="de,en" pageCount="34" customLogoBottom="10" pagethickness="3.0" htmlAppCapable="true">
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE book SYSTEM 'https://megazine3.de/megazine2.dtd'><book openInFullscreen="true" bookActualVersion="2.4.4.004" showNavbar="yes" isDefaultValue="true" showBurgerMenu="yes" licensekey="3ac416782b0c49faff58656aba9bc443"   maxloaded="0" showPoweredBy="false" showContactData="false" xmlName="mz3ToolBookData" sliderepeat="true" publishTechnology="air" bookNavbarHeight="2" dragrange="44" defaultLanguage="de" plugins="gestures,console,navigationbar,keyboardnavigation,links,javascript,pdflinks,anchors,zoom,titles,index,swfaddress,overlays,slideshow,tuio" thumbauto="false" pageWidth2="1920" supportSinglePageButton="false" errorlevel="WARNING" guipath="asul_c/gui/" zoomminscale="0.1"  foldfx="0.40" zoommaxscale="4.0" zoomsnap="0.1,0.25,0.5,0.75,1.0,1.5,2.0,4" modificationDate="2020-01-0316:58" zoomsteps="2" creationDate="2019-12-0812:14" thumbloadtext="pleasewait" thumbloadtextsize="12" guiBigPath="asul_c/guiBig/" cornerhint="false" mz3ButtonsBigPath="asul_c/mz3ButtonsBig/" thumbCount="0" startpage="1" mz3TitleName="megazineDemo" pagewidth="960" htmlJsMissingHint="MegaZine3Title(missingJavascript)" pageheight="1200" htmlTitle="MegaZine3Title" searchindex="" htmlKeywords="eBook,Mz3Title" htmlIcon="https://megazine3.de/downloads/logos/favicon.ico" customLogoRight="10" htmlBarStyle="black" bgcolor="0x00c3b586" pageType="double" bookBgColor="#ff000000" publOptionLicenseKey="3650d3ba7162d1f85281ce9f8f5fa7e7:Hans J Nuecke" htmlContentType="book" lang="de,en" pageCount="34" customLogoBottom="10" pagethickness="3.0" htmlAppCapable="true">
   <chapter ch-nbr="1">
     
     <!-- page 1 -->
@@ -144,7 +144,7 @@
       <!-- small yellow box right upper -->
       <img src="assets_c/image/page_6_7/right_yellow_1.png" left="1130" top="572" height="60" width="60" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
- <!-- right side  -->
+       <!-- right side  -->
       <img src="assets_c/image/page_6_7/right_shade.png" left="1570" top="800" height="140" width="350" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elType="pimg"/>
 
       <!-- third video BOTTOM  page 7 -->
@@ -157,37 +157,39 @@
       <!-- small yellow box right  -->
       <img src="assets_c/image/page_6_7/page_6_box.png" left="1718" top="702" height="60" width="60" elPrio="9999" elDate="2019-12-10 23:28" aa="true" pgNbr="6" cache="false" elIndex="a00016" elType="pimg"/>
 
-     
-
-
-
     </spreadpage>
     
-    <spreadpage pgNbr="8" bgcolor="0x00000000" imgNbr="5">
-      <img src="assets_c/image/8.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" />
+    <spreadpage pgNbr="8" bgcolor="0xFFFFFF" imgNbr="5">
+      <!-- <img src="assets_c/image/8.png" left="0" top="0" height="1200" width="1920" elPrio="005" elDate="2019-12-10 23:28" aa="true" pgNbr="8" cache="false" elIndex="a00002" elType="pimg" /> -->
 
       <!-- page 8 -->
 
        <!-- show current page number on top left corner -->
       <img src="assets_c/image/page_8_9/page_no_8.png" left="22" top="0" height="60" elPrio="9999" width="35"/>
       
+      <!-- top shade  -->
+      <img src="assets_c/image/page_8_9/top_shade.png" left="548" top="0" height="160" elPrio="9999" width="410"/>
+      
+      
       <!--  text image content  -->
-      <img src="assets_c/image/page_8_9/page_8_text.png" left="0" top="100" height="120" elPrio="9999" width="610"/>
+      <!-- <img src="assets_c/image/page_8_9/page_8_text.png" left="0" top="100" height="120" elPrio="9999" width="610"/> -->
 
       <area left="30"  top="307" width="460" height="245" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
 
        <!-- first video  -->
-      <vid  src="assets_c/video/video.mp4" left="85" top="240" height="580" width="322"  autoplay="true" onlywhenactive="true" restart="true"  loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_12_text_1.png" />
+      <vid  src="assets_c/video/video.mp4" left="85" top="240" height="580" width="322"  autoplay="true" onlywhenactive="true" restart="true"  loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_8_9/video_image_1.png" />
 
        <!-- second video  -->
-      <vid   src="assets_c/video/video.mp4" left="485" top="265" height="780" width="425"  autoplay="true" onlywhenactive="true" restart="true" loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_12_text_1.png"/>
+      <vid   src="assets_c/video/video.mp4" left="485" top="265" height="780" width="425"  autoplay="true" onlywhenactive="true" restart="true" loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_8_9/video_image_2.png"/>
+
+
 
       <!-- page 9 -->
       
       <!-- third video  -->
       <!-- top yellow box -->
       <area left="959"  top="0" width="963" height="281"  bgcolor="0xF6E919" elType="area" elPrio="10"  overlay="color(1,1,0xF6E919)"/>
-      <vid  src="assets_c/video/video.mp4" left="1031" top="140" height="760" width="428" autoplay="true" />
+      <vid  src="assets_c/video/video.mp4" left="1031" top="140" height="760" width="428" autoplay="true" onlywhenactive="true" restart="true" loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_8_9/video_image_3.png" />
 
        <!-- most small yellow box 1 -->
       <area left="1503"  top="329" width="27" height="26" bgcolor="0xF6E919" elType="area" elPrio="999" overlay="color(0.4,1,0xF6E919)"/>
@@ -196,7 +198,7 @@
       <area left="1475"  top="299 " width="43" height="43"  bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(0.8,1,0xF6E919)"/>
 
       <!-- fourth video  -->
-      <vid  src="assets_c/video/video.mp4" left="1520" top="518" height="578" width="332" autoplay="true" />
+      <vid  src="assets_c/video/video.mp4" left="1520" top="518" height="578" width="332" autoplay="true" onlywhenactive="true" restart="true" loop="false" gui="elements/vidgui.swf"  preview="assets_c/image/page_8_9/video_image_4.png" />
 
       <!-- yellow box on page 9 bottom -->
       <area left="1031"  top="992" width="489" height="40" bgcolor="0xF6E919" elType="area" elPrio="999"  overlay="color(1,1,0xF6E919)"/>
